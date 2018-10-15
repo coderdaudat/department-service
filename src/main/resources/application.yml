@@ -1,6 +1,6 @@
 spring:
   application:
-    name: department
+    name: department-service
   data:
     mongodb:
       uri: mongodb://root:abcd1234@ds133041.mlab.com:33041/tap_stories
